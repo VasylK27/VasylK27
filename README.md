@@ -19,7 +19,7 @@ I build practical software for:
 - Python (asyncio, threading)
 - WebSockets, REST APIs
 - Pandas, data processing
-- Playwright / browser automation
+- Browser automation (Playwright, Camoufox)
 - Desktop GUI (Qt / PySide6)
 
 ## 📌 Featured Projects
