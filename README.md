@@ -17,10 +17,13 @@ I build practical software for:
 
 ## 🧠 Tech Stack
 - Python (asyncio, threading)
-- WebSockets, REST APIs
-- Pandas, data processing
-- Browser automation (Playwright, Camoufox)
-- Desktop GUI (Qt / PySide6)
+- REST APIs & WebSockets
+- Pandas, CSV, JSON
+- Web scraping:
+  - requests / BeautifulSoup
+  - Playwright
+  - Camoufox (bot-protected sites)
+- Automation & alert systems
 
 ## 📌 Featured Projects
 - **CryptoStreamAnalyzer** — real-time market anomaly detection
